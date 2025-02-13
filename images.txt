@@ -8,3 +8,5 @@ laoyutang/clash-and-dashboard
 #clash
 momai/v2rayng-custom
 #v2ray
+docker pull dreamacro/clash
+#clash/dream
